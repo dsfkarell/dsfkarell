@@ -16,7 +16,7 @@
 
 🔭 I’m currently learning Data Science (Data Mining and Text Mining).
 
-:calling: You can find me on [LinkedIn](https://www.linkedin.com/in/dsfkarell/).
+:calling: You can find me on [LinkedIn](https://www.linkedin.com/in/dsfrancia/).
 
 <!--
 **dsfkarell/dsfkarell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
